@@ -159,6 +159,9 @@ export default function Home() {
                   <option value="Food">Food</option>
                   <option value="Groceries">Groceries</option>
                   <option value="Transportation">Transportation</option>
+                  <option value="Make-up">Make-up</option>
+                  <option value="Dates">Dates</option>
+                  <option value="Dresses">Dresses</option>
                   <option value="Entertainment">Entertainment</option>
                   <option value="Miscellaneous">Miscellaneous</option>
                 </select>
